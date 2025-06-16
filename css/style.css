@@ -145,16 +145,14 @@ img {
     .container {
         width: 100%;
     }
-
-
-
 }
 */
+
 /* phone screen*/
+
 @media all and (max-width: 480px) {
     .row {
         flex-direction: column;
-        align-items: center;
     }
 
     .lessons .col,
