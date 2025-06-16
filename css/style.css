@@ -137,16 +137,19 @@ img {
     }
 }
 
+/* can be disabled with Bonus as it will give the same result */
 /*tablet screen*/
-
+/*
 @media all and (max-width: 768px) {
 
     .container {
         width: 100%;
     }
 
-}
 
+
+}
+*/
 /* phone screen*/
 @media all and (max-width: 480px) {
     .row {
