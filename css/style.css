@@ -130,7 +130,14 @@ img {
  ************************************************/
 
 /*tablet screen*/
-@media all and (max-width: 768px) {}
+
+@media all and (max-width: 768px) {
+
+    .container {
+        width: 100%;
+    }
+
+}
 
 /* phone screen*/
 @media all and (max-width: 480px) {}
