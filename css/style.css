@@ -129,6 +129,8 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+/*BONUS:desktop upto 1160px*/
+
 /*tablet screen*/
 
 @media all and (max-width: 768px) {
