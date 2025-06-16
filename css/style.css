@@ -131,6 +131,12 @@ img {
 
 /*BONUS:desktop upto 1160px*/
 
+@media all and (max-width: 1160px) {
+    .container {
+        width: 100%;
+    }
+}
+
 /*tablet screen*/
 
 @media all and (max-width: 768px) {
