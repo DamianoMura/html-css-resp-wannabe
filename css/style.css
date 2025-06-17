@@ -159,6 +159,11 @@ img {
         margin: 20px 0;
     }
 
+    .col-left {
+        margin-bottom: 20px;
+    }
+
+
     .lessons .col,
     .steps .col,
     .why-us .col {
